@@ -1,0 +1,75 @@
+* {
+  padding: 0%;
+  margin: 0%;
+}
+
+/* estilos.css */
+
+footer {
+  background-color: var(--bs-secondary-bg-subtle);
+  color: #0e0d0d;
+  padding: 10px;
+  text-align: center;
+  list-style-type: none;
+}
+
+.footer {
+  list-style-type: none;
+}
+
+.titulos {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.contenedor {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.redes-sociales{
+  margin-left: 4.5rem;
+}
+
+
+
+.ubicacion {
+  margin-top: 20px;
+  margin-left: 9rem;
+}
+
+
+
+.contacto {
+  margin-top: 20px;
+}
+
+h3 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px 0;
+  border-bottom: 1px solid #ccc; /* Agrega una línea divisoria entre las filas si lo deseas */
+}
+
+/* Estilos para centrar el texto */
+.col {
+  text-align: center;
+}
+
+.card-title {
+  color: black;
+  font-weight: bold;
+}
+
+.card-text {
+  color: black;
+  font-weight: bold;
+}
