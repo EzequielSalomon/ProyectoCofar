@@ -73,3 +73,8 @@ h3 {
   color: black;
   font-weight: bold;
 }
+
+.card.text-bg-dark {
+  border: none;
+  border-radius: 0;
+}
