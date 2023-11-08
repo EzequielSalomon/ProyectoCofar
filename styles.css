@@ -78,3 +78,13 @@ h3 {
   border: none;
   border-radius: 0;
 }
+
+p{
+  margin: 10px;
+}
+
+#selector {
+  display: flex;
+  justify-content: center;
+  margin: 0 20%; /* Ajusta el valor del margen según tus preferencias */
+}
